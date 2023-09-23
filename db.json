@@ -131,5 +131,37 @@
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
       "price":"18$"
     }
+  ],
+
+
+
+
+
+  "posts-midas1":[
+      {
+          "id":1,
+          "img":"Mask Group",
+          "item":"İsti qablar"
+      },
+      {
+          "id":2,
+          "img":"Mask Group (1)",
+          "item":"Şorbalar"
+      },
+      {
+          "id":3,
+          "img":"Mask Group (2)",
+          "item":"Xinkali"
+      },
+      {
+          "id":4,
+          "img":"Mask Group (3)",
+          "item":"Soyuq qəlyanaltılar"
+      },
+      {
+          "id":5,
+          "img":"Mask Group (4)",
+          "item":"Salatlar"
+      }
   ]
 }

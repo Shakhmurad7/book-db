@@ -39,97 +39,109 @@
       "id":1,
       "img":"image4",
       "weight":"350",
+      "category":"Xaçapuri",
       "item":"Acarıstanda Xaçapuri",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"6$"
+      "price":"6"
     },
     {
       "id":2,
       "img":"image12",
       "weight":"540",
+      "category":"Xinkali",
       "item":"Ənənəvi Xinkali (6 ədəd)",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"7$"
+      "price":"7"
     },
     {
       "id":3,
       "img":"image9",
       "weight":"240",
+      "category":"Qızardılmış Xinkali",
       "item":"Qızardılmış Xinkali (6 ədəd)",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"4.2$"
+      "price":"4.2"
     },
     {
       "id":4,
       "img":"image10",
       "weight":"420",
+      "category":"kalorili nahar",
       "item":"Aşağı kalorili nahar",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"10$"
+      "price":"10"
     },
     {
       "id":5,
       "img":"image1",
       "weight":"400",
+      "category":"Meqrel dilində Xaçapuri",
       "item":"Meqrel dilində Xaçapuri",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"13$"
+      "price":"13"
     },
     {
       "id":6,
       "img":"image2",
       "weight":"245",
+      "category":"kartoflu kotlet",
       "item":"Ölkə üslubunda kartoflu katlet",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"9$"
+      "price":"9"
     },
     {
       "id":7,
       "img":"image3",
       "weight":"365",
+      "category":"Ənənəvi Xinkali",
       "item":"Ənənəvi Xinkali (6 ədəd)",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"4$"
+      "price":"4"
     },
     {
       "id":8,
       "img":"image6",
       "weight":"480",
+      "category":" Xaçapuri",
       "item":"Meqrel dilində Xaçapuri",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"7.6$"
+      "price":"7.6"
     },
     {
       "id":9,
       "img":"image5",
+      "category":"kotlet",
       "weight":"490",
       "item":"Ölkə üslubunda kartoflu kotlet",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"8$"
+      "price":"8"
     },
     {
       "id":10,
       "img":"image7",
       "weight":"530",
+      "category":"Xaçapuri",
       "item":"Acarıstanda Xaçapuri",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"7$"
+      "price":"7"
     },
     {
       "id":11,
       "img":"image8",
       "weight":"610",
+      "category":"Xinkali",
       "item":"Qızardılmış Xinkali (6 ədəd)",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"11$"
+      "price":"11"
     },
     {
       "id":12,
       "img":"image11",
       "weight":"480",
+      "category":"kalorili nahar",
       "item":"Aşağı kalorili nahar",
       "text":"Xaçapuri Qayıq ərinmiş suluguni pendiri, yumurta və kərə yağı ilə doldurulur.",
-      "price":"18$"
+      "price":"18"
     }
   ],
 

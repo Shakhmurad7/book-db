@@ -153,7 +153,7 @@
       {
           "id":1,
           "img":"Mask Group",
-          "item":"İsti qablar"
+          "item":"İsti Yimekler"
       },
       {
           "id":2,
@@ -173,7 +173,10 @@
       {
           "id":5,
           "img":"Mask Group (4)",
-          "item":"Salatlar"
+          "item":"S"
       }
   ]
+  
+
+  
 }

@@ -175,7 +175,42 @@
           "img":"Mask Group (4)",
           "item":"Salatlar"
       }
+  ],
+
+  "posts2": [
+
+    {
+      "id":1,
+      "pags":"85pages",
+      "Length":"1 Hour 15 mins",
+      "item":"Chapter- 01   Get Started Intro",
+      "text":"Making this the first true value generator on the Internet. It of over 200 Latin words, combined with a handful."
+    },
+    {
+      "id":2,
+      "pags":"85pages",
+      "Length":"1 Hour 15 mins",
+      "item":"Megan Books",
+      "text":"A long established fact that a who looking at its layout."
+    },
+    {
+      "id":3,
+      "pags":"85pages",
+      "Length":"1 Hour 15 mins",
+      "item":"Los Books",
+      "text":"A long established fact that a who looking at its layout."
+    },
+    {
+      "id":4,
+      "pags":"85pages",
+      "Length":"1 Hour 15 mins",
+      "item":"Amazen Corp",
+      "text":"A long established fact that a who looking at its layout."
+    }
+
   ]
+
+  
   
 
   

@@ -235,7 +235,88 @@
       "title":"“ Mind Blowing Words ”",
       "text":"Making this the first true value generator on the Internet. It of over 200 Latin words, combined with a handful."
     }
+  ],
+
+
+  "posts-card": [
+    {
+      "id":1,
+      "img":"foto1",
+      "item":"Significant reading has more info number",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":2,
+      "img":"foto1",
+      "item":"Release of Letraset sheets tools containing  passages",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":3,
+      "img":"foto3",
+      "item":"The energy efficiency offers hydrotherapy or swim",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":4,
+      "img":"foto4",
+      "item":"Significant reading has more info number",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":5,
+      "img":"foto5",
+      "item":"The energy efficiency offers hydrotherapy or swim",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":6,
+      "img":"foto6",
+      "item":"Significant reading has more info number",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":7,
+      "img":"foto7",
+      "item":"Significant reading has more info number",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":8,
+      "img":"foto8",
+      "item":"Significant reading has more info number",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    },
+    {
+      "id":9,
+      "img":"foto9",
+      "item":"The energy efficiency offers hydrotherapy or swim",
+      "title":"Read more",
+      "date":"Author - 23.05.2022",
+      "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
+    }
+  
   ]
+
+  
+  
+
 
   
   

@@ -312,6 +312,65 @@
       "text":"The point of using Lorem Ipsum hiter of that using making it look like others readable will get end."
     }
   
+  ],
+  "posts-card2": [
+
+    {
+      "id":1,
+      "img":"Book (1)",
+      "item":"Atomic One’s",
+      "price":"23.89",
+      "title":"Printed Books",
+      "text":"Many variations of passages of Lorem Ipsum willing araise  alteration in some form.",
+      "next":"Order Today"
+    },
+    {
+      "id":2,
+      "img":"Book (3)",
+      "item":"Atomic One’s",
+      "price":"14.89",
+      "title":"Printed Books",
+      "text":"Many variations of passages of Lorem Ipsum willing araise  alteration in some form.",
+      "next":"Order Today"
+    },
+    {
+      "id":3,
+      "img":"Book (4)",
+      "item":"Atomic One’s",
+      "price":"43.89",
+      "title":"Printed Books",
+      "text":"Many variations of passages of Lorem Ipsum willing araise  alteration in some form.",
+      "next":"Order Today"
+    },
+    {
+      "id":4,
+      "img":"Book (2)",
+      "item":"The Dark Light",
+      "price":"13.89",
+      "title":"Printed Books",
+      "text":"Many variations of passages of Lorem Ipsum willing araise  alteration in some form.",
+      "next":"Order Today"
+    },
+    {
+      "id":5,
+      "img":"Book (5)",
+      "item":"The Dark Light",
+      "price":"21.89",
+      "title":"Printed Books",
+      "text":"Many variations of passages of Lorem Ipsum willing araise  alteration in some form.",
+      "next":"Order Today"
+    },
+    {
+      "id":6,
+      "img":"Book (6)",
+      "item":"The Dark Light",
+      "price":"18.89",
+      "title":"Printed Books",
+      "text":"Many variations of passages of Lorem Ipsum willing araise  alteration in some form.",
+      "next":"Order Today"
+    }
+
+
   ]
 
   

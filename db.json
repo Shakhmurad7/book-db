@@ -317,7 +317,7 @@
 
     {
       "id":1,
-      "img":"Book (1)",
+      "img":"Books",
       "item":"Atomic One’s",
       "price":"23.89",
       "title":"Printed Books",
@@ -344,7 +344,7 @@
     },
     {
       "id":4,
-      "img":"Book (2)",
+      "img":"Books (1)",
       "item":"The Dark Light",
       "price":"13.89",
       "title":"Printed Books",

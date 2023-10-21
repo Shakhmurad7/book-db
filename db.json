@@ -371,6 +371,99 @@
     }
 
 
+  ],
+
+
+  "NFT-post-cart":
+  [
+    {
+      "id":1,
+      "img":"Artist Avatar",
+      "itme":"Keepitreal",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":2,
+      "img":"Artist Avatar (2)",
+      "itme":"DigiLab",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":3,
+      "img":"Artist Avatar (3)",
+      "itme":"GravityOne",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":4,
+      "img":"Artist Avatar (4)",
+      "itme":"Juanie",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":5,
+      "img":"Artist Avatar (5)",
+      "itme":"BlueWhale",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":6,
+      "img":"Artist Avatar (6)",
+      "itme":"Mr fox",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":7,
+      "img":"Artist Avatar (7)",
+      "itme":"Shroomie",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":8,
+      "img":"Artist Avatar (8)",
+      "itme":"robotica",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":9,
+      "img":"Artist Avatar (9)",
+      "itme":"RustyRobot",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":10,
+      "img":"Artist Avatar (10)",
+      "itme":"Ghiblier",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":11,
+      "img":"Artist Avatar (11)",
+      "itme":"animakid",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    },
+    {
+      "id":12,
+      "img":"Artist Avatar (1)",
+      "itme":"Dotgu",
+      "title":"Total Sales:",
+      "date":"34.53 ETH"
+    }
+  
+  
+  
+
   ]
 
   

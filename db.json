@@ -460,9 +460,57 @@
       "title":"Total Sales:",
       "date":"34.53 ETH"
     }
-  
-  
-  
+  ],
+  "NFT-post-cart-img":[
+    {
+      "id":1,
+      "img":"Image Placeholder (1)",
+      "icon":"PaintBrush",
+      "item":"Art"
+    },
+    {
+      "id":2,
+      "img":"Image Placeholder (2)",
+      "icon":"Swatches",
+      "item":"Collectibles"
+    },
+    {
+      "id":3,
+      "img":"Image Placeholder (3)",
+      "icon":"MusicNotes",
+      "item":"Music"
+    },
+    {
+      "id":4,
+      "img":"Image Placeholder (4)",
+      "icon":"Camera",
+      "item":"Photography"
+    },
+    {
+      "id":5,
+      "img":"Image Placeholder (5)",
+      "icon":"VideoCamera",
+      "item":"Video"
+    },
+    {
+      "id":6,
+      "img":"Image Placeholder (6)",
+      "icon":"MagicWand",
+      "item":"Utility"
+    },
+    {
+      "id":7,
+      "img":"Image Placeholder (7)",
+      "icon":"Basketball",
+      "item":"Sport"
+    },
+    {
+      "id":8,
+      "img":"Image Placeholder (8)",
+      "icon":"Planet",
+      "item":"Virtual Worlds"
+    }
+
 
   ]
 

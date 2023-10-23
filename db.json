@@ -520,6 +520,7 @@
         "item":"Life On Edena",
         "title":"NebulaKid",
         "price":"1.63 ETH",
+        "name":"MoonDancer",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (9)"
       },
@@ -527,6 +528,7 @@
         "id":2,
         "item":"Life On Edena",
         "title":"NebulaKid",
+        "name":"NebulaKid",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (10)"
@@ -535,6 +537,7 @@
         "id":2,
         "item":"Life On Edena",
         "title":"NebulaKid",
+        "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (11)"

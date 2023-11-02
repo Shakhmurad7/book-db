@@ -522,7 +522,8 @@
         "price":"1.63 ETH",
         "name":"MoonDancer",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (9)"
+        "img":"Image Placeholder (9)",
+        "cotegory":"owned"
       },
       {
         "id":2,
@@ -531,7 +532,8 @@
         "name":"NebulaKid",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (10)"
+        "img":"Image Placeholder (10)",
+        "cotegory":"collection"
       },
       {
         "id":3,
@@ -540,7 +542,8 @@
         "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (11)"
+        "img":"Image Placeholder (11)",
+        "cotegory":"collection"
       },
       {
         "id":4,
@@ -549,7 +552,8 @@
         "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (18)"
+        "img":"Image Placeholder (18)",
+        "cotegory":"collection"
       },
       {
         "id":5,
@@ -558,7 +562,8 @@
         "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (13)"
+        "img":"Image Placeholder (13)",
+        "cotegory":"owned"
       },
       {
         "id":6,
@@ -567,7 +572,8 @@
         "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (17)"
+        "img":"Image Placeholder (17)",
+        "cotegory":"collection"
       },
       {
         "id":7,
@@ -576,7 +582,8 @@
         "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (14)"
+        "img":"Image Placeholder (14)",
+        "cotegory":"owned"
       },
       {
         "id":8,
@@ -585,7 +592,8 @@
         "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (16)"
+        "img":"Image Placeholder (16)",
+        "cotegory":"owned"
       },
       {
         "id":9,
@@ -594,7 +602,8 @@
         "name":"Spaceone",
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
-        "img":"Image Placeholder (15)"
+        "img":"Image Placeholder (15)",
+        "cotegory":"owned"
       }
 
 

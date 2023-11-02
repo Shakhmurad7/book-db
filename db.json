@@ -541,7 +541,69 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (11)"
+      },
+      {
+        "id":4,
+        "item":"CryptoCity",
+        "title":"NebulaKid",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (18)"
+      },
+      {
+        "id":5,
+        "item":"ColorfulDog 0524",
+        "title":"NebulaKid",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (13)"
+      },
+      {
+        "id":6,
+        "item":"Space Tales",
+        "title":"NebulaKid",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (17)"
+      },
+      {
+        "id":7,
+        "item":"Cherry Blossom Girl 037",
+        "title":"NebulaKid",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (14)"
+      },
+      {
+        "id":8,
+        "item":"Dancing Robots 0987",
+        "title":"NebulaKid",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (16)"
+      },
+      {
+        "id":9,
+        "item":"IceCream Ape ",
+        "title":"NebulaKid",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (15)"
       }
+
+
+
+
+
+
+
+
    ],
 
 

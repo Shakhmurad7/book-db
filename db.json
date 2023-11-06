@@ -604,13 +604,37 @@
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (15)",
         "cotegory":"owned"
+      },
+      {
+        "id":10,
+        "item":"Happy Robot 024",
+        "title":"BeKind2Robots",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (20)",
+        "cotegory":"owned"
+      },
+      {
+        "id":11,
+        "item":"Happy Robot 032",
+        "title":"BeKind2Robots",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (21)",
+        "cotegory":"owned"
+      },
+      {
+        "id":12,
+        "item":"Desert Walk",
+        "title":"Catch 22",
+        "name":"Spaceone",
+        "price":"1.63 ETH",
+        "HighestBid":"0.33 wETH",
+        "img":"Image Placeholder (22)",
+        "cotegory":"owned"
       }
-
-
-
-
-
-
 
 
    ],

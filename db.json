@@ -523,7 +523,8 @@
         "name":"MoonDancer",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (9)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"today"
       },
       {
         "id":2,
@@ -533,7 +534,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (10)",
-        "cotegory":"collection"
+        "cotegory":"collection",
+        "day":"today"
       },
       {
         "id":3,
@@ -543,7 +545,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (11)",
-        "cotegory":"collection"
+        "cotegory":"collection",
+        "day":"today"
       },
       {
         "id":4,
@@ -553,7 +556,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (18)",
-        "cotegory":"collection"
+        "cotegory":"collection",
+        "day":"today"
       },
       {
         "id":5,
@@ -563,7 +567,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (13)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"This Month"
       },
       {
         "id":6,
@@ -573,7 +578,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (17)",
-        "cotegory":"collection"
+        "cotegory":"collection",
+        "day":"This Month"
       },
       {
         "id":7,
@@ -583,7 +589,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (14)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"This Month"
       },
       {
         "id":8,
@@ -593,7 +600,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (16)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"This Month"
       },
       {
         "id":9,
@@ -603,7 +611,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (15)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"This Week"
       },
       {
         "id":10,
@@ -613,7 +622,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (20)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"This Week"
       },
       {
         "id":11,
@@ -623,7 +633,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (21)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"today"
       },
       {
         "id":12,
@@ -633,7 +644,8 @@
         "price":"1.63 ETH",
         "HighestBid":"0.33 wETH",
         "img":"Image Placeholder (22)",
-        "cotegory":"owned"
+        "cotegory":"owned",
+        "day":"This Week"
       }
 
 

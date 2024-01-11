@@ -672,7 +672,51 @@
       "text":"Choose between auctions and fixed-price listings. Start earning by selling your NFTs or trading others.",
       "img":"Icon (5)"
     }
+   ],
+
+
+   "Post-Store" :[
+
+    {
+      "id":1,
+      "img":"Stor-img1",
+      "title":"Квадроциклы",
+      "item":"Подробее"
+    },
+    {
+      "id":2,
+      "img":"Stor-img2",
+      "title":"Гидроциклы",
+      "item":"Подробее"
+    },
+    {
+      "id":3,
+      "img":"Stor-img3",
+      "title":"Катера",
+      "item":"Подробее"
+    },
+    {
+      "id":4,
+      "img":"Stor-img4",
+      "title":"Снегоходы",
+      "item":"Подробее"
+    },
+    {
+      "id":5,
+      "img":"Stor-img6",
+      "title":"Вездеходы",
+      "item":"Подробее"
+    },
+    {
+      "id":6,
+      "img":"Stor-img7",
+      "title":"Двигатели",
+      "item":"Подробее"
+    }
+
    ]
+
+   
 
   
   

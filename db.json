@@ -714,6 +714,33 @@
       "item":"Подробее"
     }
 
+   ],
+
+   "Post-cart-goods":[
+    {
+      "id":1,
+      "item":"Водонепроницаемый Рюкзак" ,
+      "price":"28",
+      "img":"goods2"
+    },
+    {
+      "id":2,
+      "item":"Спасательный жилет BRP Men's Airflow PFD" ,
+      "price":"32",
+      "img":"goods3"
+    },
+    {
+      "id":3,
+      "item":"BRP Audio-Premium System" ,
+      "price":"33",
+      "img":"goods3"
+    },
+    {
+      "id":4,
+      "item":"Водонепроницаемый Рюкзак" ,
+      "price":"46",
+      "img":"goods1"
+    }
    ]
 
    

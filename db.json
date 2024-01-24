@@ -680,38 +680,38 @@
     {
       "id":1,
       "img":"Stor-img1",
-      "title":"Квадроциклы",
-      "item":"Подробее"
+      "title":"ATV-lər",
+      "item":"Daha ətraflı"
     },
     {
       "id":2,
       "img":"Stor-img2",
-      "title":"Гидроциклы",
-      "item":"Подробее"
+      "title":"Su üstə gedən avtomobilləri ",
+      "item":"Daha ətraflı"
     },
     {
       "id":3,
       "img":"Stor-img3",
-      "title":"Катера",
-      "item":"Подробее"
+      "title":"Qayıqlar",
+      "item":"Daha ətraflı"
     },
     {
       "id":4,
       "img":"Stor-img4",
-      "title":"Снегоходы",
-      "item":"Подробее"
+      "title":"Qar avtomobilləri",
+      "item":"Daha ətraflı"
     },
     {
       "id":5,
       "img":"Stor-img6",
-      "title":"Вездеходы",
-      "item":"Подробее"
+      "title":"Bütün ərazi nəqliyyat vasitələri",
+      "item":"Daha ətraflı"
     },
     {
       "id":6,
       "img":"Stor-img7",
-      "title":"Двигатели",
-      "item":"Подробее"
+      "title":"Mühərriklər",
+      "item":"Daha ətraflı"
     }
 
    ],

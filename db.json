@@ -740,6 +740,18 @@
       "item":"Suya davamlı bel çantası" ,
       "price":"46",
       "img":"goods1"
+    },
+    {
+      "id":5,
+      "item":"Suya davamlı bel çantası" ,
+      "price":"46",
+      "img":"goods1"
+    },
+    {
+      "id":6,
+      "item":"Suya davamlı bel çantası" ,
+      "price":"46",
+      "img":"goods1"
     }
    ],
 
@@ -765,6 +777,18 @@
     },
     {
       "id":4,
+      "item":"Kişi kostyumu3 mm",
+      "price":"25",
+      "img":"goods2-4"
+    },
+    {
+      "id":5,
+      "item":"Kişi kostyumu3 mm",
+      "price":"25",
+      "img":"goods2-4"
+    },
+    {
+      "id":6,
       "item":"Kişi kostyumu3 mm",
       "price":"25",
       "img":"goods2-4"

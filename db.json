@@ -793,18 +793,81 @@
       "price":"25",
       "img":"goods2-4"
     }
+   ],
+
+   "JetSki":[
+    {
+      "id":1,
+      "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"2300",
+      "img":"JetSki1"
+    },
+    {
+      "id":2,
+      "item":"Jet ski BRP SeaDoo GTI 155 at gücü SE Long Blue Metallic",
+      "price":"2700",
+      "img":"JetSki2"
+    },
+    {
+      "id":3,
+      "item":"Jet ski BRP SeaDoo GTR 230hp X California yaşıl",
+      "price":"2340",
+      "img":"JetSki3"
+    },
+    {
+      "id":4,
+      "item":"Jet ski BRP SeaDoo GTR 230 at gücündə STD Black / Gulfstream",
+      "price":"4400",
+      "img":"JetSki4"
+    },
+    {
+      "id":5,
+      "item":"Jet Ski BRP SeaDoo GTX 300hp LTD Maye Metal",
+      "price":"10900",
+      "img":"JetSki5"
+    },
+    {
+      "id":6,
+      "item":"Jet ski BRP SeaDoo Spark 60 at gücü 2 yuxarı",
+      "price":"1890",
+      "img":"JetSki6"
+    },
+    {
+      "id":7,
+      "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"3200",
+      "img":"JetSki7"
+    },
+    {
+      "id":8,
+      "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"3349",
+      "img":"JetSki8"
+    },
+    {
+      "id":9,
+      "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"6789",
+      "img":"JetSki9"
+    },
+    {
+      "id":10,
+      "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"8899",
+      "img":"JetSki10"
+    },
+    {
+      "id":11,
+      "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"5900",
+      "img":"JetSki11"
+    },
+    {
+      "id":12,
+      "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"9999",
+      "img":"JetSki12"
+    }
    ]
-
-   
-
-   
-
-  
-  
-
-
-  
-  
-
   
 }

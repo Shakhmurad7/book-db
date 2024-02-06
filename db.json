@@ -800,73 +800,122 @@
       "id":1,
       "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
       "price":"2300",
-      "img":"JetSki1"
+      "img":"JetSki1",
+      "country":"Fransa",
+      "force":"175",
+      "fuel":"Benzin",
+      "year":"2020"
+      
     },
     {
       "id":2,
       "item":"Jet ski BRP SeaDoo GTI 155 at gücü SE Long Blue Metallic",
       "price":"2700",
-      "img":"JetSki2"
+      "img":"JetSki2",
+      "country":"Almaniya",
+      "force":"178",
+      "fuel":"Benzin",
+      "year":"2018"
     },
     {
       "id":3,
       "item":"Jet ski BRP SeaDoo GTR 230hp X California yaşıl",
       "price":"2340",
-      "img":"JetSki3"
+      "img":"JetSki3",
+      "country":"Fransa",
+      "force":"212",
+      "fuel":"Dizel",
+      "year":"2013"
     },
     {
       "id":4,
       "item":"Jet ski BRP SeaDoo GTR 230 at gücündə STD Black / Gulfstream",
       "price":"4400",
-      "img":"JetSki4"
+      "img":"JetSki4",
+      "country":"Brazilya",
+      "force":"255",
+      "fuel":"Benzin",
+      "year":"2015"
     },
     {
       "id":5,
       "item":"Jet Ski BRP SeaDoo GTX 300hp LTD Maye Metal",
       "price":"10900",
-      "img":"JetSki5"
+      "img":"JetSki5",
+      "country":"Almaniya",
+      "force":"243",
+      "fuel":"Benzin",
+      "year":"2021"
     },
     {
       "id":6,
       "item":"Jet ski BRP SeaDoo Spark 60 at gücü 2 yuxarı",
       "price":"1890",
-      "img":"JetSki6"
+      "img":"JetSki6",
+      "country":"ABS",
+      "force":"112",
+      "fuel":"Dizel",
+      "year":"2009"
     },
     {
       "id":7,
       "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
       "price":"3200",
-      "img":"JetSki7"
+      "img":"JetSki7",
+      "country":"Russia",
+      "force":"220",
+      "fuel":"Benzin",
+      "year":"2023"
     },
     {
       "id":8,
       "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
       "price":"3349",
-      "img":"JetSki8"
+      "img":"JetSki8",
+      "country":"Almaniya",
+      "force":"145",
+      "fuel":"Benzin",
+      "year":"2016"
     },
     {
       "id":9,
       "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
       "price":"6789",
-      "img":"JetSki9"
+      "img":"JetSki9",
+      "country":"Almaniya",
+      "force":"199",
+      "fuel":"Benzin",
+      "year":"2017"
     },
     {
       "id":10,
       "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
       "price":"8899",
-      "img":"JetSki10"
+      "img":"JetSki10",
+      "country":"Almaniya",
+      "force":"255",
+      "fuel":"Benzin",
+      "year":"2015"
     },
     {
       "id":11,
       "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
       "price":"5900",
-      "img":"JetSki11"
+      "img":"JetSki11",
+      "country":"ABS",
+      "force":"190",
+      "fuel":"Benzin",
+      "year":"2014"
     },
     {
       "id":12,
       "item":"Jet ski BRP SeaDoo GTI 130 at gücü SE Black Mango",
       "price":"9999",
-      "img":"JetSki12"
+      "img":"JetSki12",
+      "country":"Kanada",
+      "force":"225",
+      "fuel":"Benzin",
+      "year":"2022"
     }
    ]
   

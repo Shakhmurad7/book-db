@@ -805,7 +805,7 @@
       "force":"175",
       "fuel":"Benzin",
       "year":"2020",
-      "number of seats":"1"
+      "numberOFseats":"1"
       
     },
     {
@@ -817,7 +817,7 @@
       "force":"178",
       "fuel":"Benzin",
       "year":"2018",
-      "number of seats":"2"
+      "numberOFseats":"2"
     },
     {
       "id":3,
@@ -828,7 +828,7 @@
       "force":"212",
       "fuel":"Dizel",
       "year":"2013" ,
-      "number of seats":"2"
+      "numberOFseats":"2"
     },
     {
       "id":4,
@@ -839,7 +839,7 @@
       "force":"255",
       "fuel":"Benzin",
       "year":"2015",
-      "number of seats":"1"
+      "numberOFseats":"1"
     },
     {
       "id":5,
@@ -850,7 +850,7 @@
       "force":"243",
       "fuel":"Benzin",
       "year":"2021",
-      "number of seats":"2"
+      "numberOFseats":"2"
     },
     {
       "id":6,
@@ -861,7 +861,7 @@
       "force":"112",
       "fuel":"Dizel",
       "year":"2009",
-      "number of seats":"3"
+      "numberOFseats":"3"
     },
     {
       "id":7,
@@ -872,7 +872,7 @@
       "force":"220",
       "fuel":"Benzin",
       "year":"2023",
-      "number of seats":"2"
+      "numberOFseats":"2"
     },
     {
       "id":8,
@@ -883,7 +883,7 @@
       "force":"145",
       "fuel":"Benzin",
       "year":"2016",
-      "number of seats":"2"
+      "numberOFseats":"2"
     },
     {
       "id":9,
@@ -894,7 +894,7 @@
       "force":"199",
       "fuel":"Benzin",
       "year":"2017",
-      "number of seats":"3"
+      "numberOFseats":"3"
     },
     {
       "id":10,
@@ -905,7 +905,7 @@
       "force":"255",
       "fuel":"Benzin",
       "year":"2015",
-      "number of seats":"3"
+      "numberOFseats":"3"
     },
     {
       "id":11,
@@ -916,7 +916,7 @@
       "force":"190",
       "fuel":"Benzin",
       "year":"2014",
-      "number of seats":"3"
+      "numberOFseats":"3"
     },
     {
       "id":12,
@@ -927,7 +927,7 @@
       "force":"225",
       "fuel":"Benzin",
       "year":"2022",
-      "number of seats":"2"
+      "numberOFseats":"2"
     }
    ]
   

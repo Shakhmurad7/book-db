@@ -804,7 +804,8 @@
       "country":"Fransa",
       "force":"175",
       "fuel":"Benzin",
-      "year":"2020"
+      "year":"2020",
+      "number of seats":"1"
       
     },
     {
@@ -815,7 +816,8 @@
       "country":"Almaniya",
       "force":"178",
       "fuel":"Benzin",
-      "year":"2018"
+      "year":"2018",
+      "number of seats":"2"
     },
     {
       "id":3,
@@ -825,7 +827,8 @@
       "country":"Fransa",
       "force":"212",
       "fuel":"Dizel",
-      "year":"2013"
+      "year":"2013" ,
+      "number of seats":"2"
     },
     {
       "id":4,
@@ -835,7 +838,8 @@
       "country":"Brazilya",
       "force":"255",
       "fuel":"Benzin",
-      "year":"2015"
+      "year":"2015",
+      "number of seats":"1"
     },
     {
       "id":5,
@@ -845,7 +849,8 @@
       "country":"Almaniya",
       "force":"243",
       "fuel":"Benzin",
-      "year":"2021"
+      "year":"2021",
+      "number of seats":"2"
     },
     {
       "id":6,
@@ -855,7 +860,8 @@
       "country":"ABS",
       "force":"112",
       "fuel":"Dizel",
-      "year":"2009"
+      "year":"2009",
+      "number of seats":"3"
     },
     {
       "id":7,
@@ -865,7 +871,8 @@
       "country":"Russia",
       "force":"220",
       "fuel":"Benzin",
-      "year":"2023"
+      "year":"2023",
+      "number of seats":"2"
     },
     {
       "id":8,
@@ -875,7 +882,8 @@
       "country":"Almaniya",
       "force":"145",
       "fuel":"Benzin",
-      "year":"2016"
+      "year":"2016",
+      "number of seats":"2"
     },
     {
       "id":9,
@@ -885,7 +893,8 @@
       "country":"Almaniya",
       "force":"199",
       "fuel":"Benzin",
-      "year":"2017"
+      "year":"2017",
+      "number of seats":"3"
     },
     {
       "id":10,
@@ -895,7 +904,8 @@
       "country":"Almaniya",
       "force":"255",
       "fuel":"Benzin",
-      "year":"2015"
+      "year":"2015",
+      "number of seats":"3"
     },
     {
       "id":11,
@@ -905,7 +915,8 @@
       "country":"ABS",
       "force":"190",
       "fuel":"Benzin",
-      "year":"2014"
+      "year":"2014",
+      "number of seats":"3"
     },
     {
       "id":12,
@@ -915,7 +926,8 @@
       "country":"Kanada",
       "force":"225",
       "fuel":"Benzin",
-      "year":"2022"
+      "year":"2022",
+      "number of seats":"2"
     }
    ]
   

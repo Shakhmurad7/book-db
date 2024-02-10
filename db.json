@@ -929,6 +929,145 @@
       "year":"2022",
       "numberOFseats":"2"
     }
+   ],
+
+   "Atvs":[
+      {
+      "id":1,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"8799",
+      "img":"Atv1",
+      "country":"Kanada",
+      "force":"215",
+      "fuel":"Benzin",
+      "year":"2022",
+      "numberOFseats":"4"
+      },
+      
+      {
+      "id":2,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"12799",
+      "img":"Atv2",
+      "country":"Kanada",
+      "force":"200",
+      "fuel":"Benzin",
+      "year":"2018",
+      "numberOFseats":"3"
+      },
+      {
+      "id":3,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"34799",
+      "img":"Atv3",
+      "country":"Almaniya",
+      "force":"280",
+      "fuel":"Benzin",
+      "year":"2024",
+      "numberOFseats":"6"
+      },
+      {
+      "id":4,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"15599",
+      "img":"Atv4",
+      "country":"Russia",
+      "force":"215",
+      "fuel":"Benzin",
+      "year":"2022",
+      "numberOFseats":"4"
+      },
+      {
+      "id":5,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"10999",
+      "img":"Atv5",
+      "country":"Brazilya",
+      "force":"255",
+      "fuel":"Benzin",
+      "year":"2017",
+      "numberOFseats":"4"
+      },
+      {
+      "id":6,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"7999",
+      "img":"Atv6",
+      "country":"Franca",
+      "force":"175",
+      "fuel":"Dizel",
+      "year":"2022",
+      "numberOFseats":"4"
+      },
+      {
+      "id":7,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"8899",
+      "img":"Atv7",
+      "country":"ABS",
+      "force":"215",
+      "fuel":"Benzin",
+      "year":"2019",
+      "numberOFseats":"5"
+      },
+      {
+      "id":8,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11999",
+      "img":"Atv8",
+      "country":"Turkiye",
+      "force":"255",
+      "fuel":"Benzin",
+      "year":"2020",
+      "numberOFseats":"6"
+      },
+      {
+      "id":9,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"8799",
+      "img":"Atv9",
+      "country":"Kanada",
+      "force":"200",
+      "fuel":"Benzin",
+      "year":"2022",
+      "numberOFseats":"4"
+      },
+      {
+      "id":10,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"6999",
+      "img":"Atv10",
+      "country":"Russia",
+      "force":"215",
+      "fuel":"Benzin",
+      "year":"2015",
+      "numberOFseats":"2"
+      },
+      {
+      "id":11,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"8999",
+      "img":"Atv11",
+      "country":"Turkiye",
+      "force":"222",
+      "fuel":"Benzin",
+      "year":"2012",
+      "numberOFseats":"5"
+      },
+      {
+      "id":12,
+      "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Atv12",
+      "country":"ABS",
+      "force":"244",
+      "fuel":"Benzin",
+      "year":"2023",
+      "numberOFseats":"6"
+      }
+
+
    ]
+   
   
 }

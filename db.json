@@ -1067,6 +1067,153 @@
       }
 
 
+   ],
+   "B-Qayiq":[
+
+      {
+      "id":1,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Bqayiq1",
+      "country":"Franca",
+      "force":"20",
+      "fuel":"Benzin",
+      "year":"2019",
+      "numberOFseats":"6"
+      },
+
+      {
+      "id":2,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Bqayiq2",
+      "country":"ABS",
+      "force":"33",
+      "fuel":"Dizel",
+      "year":"2013",
+      "numberOFseats":"6"
+      },
+
+      {
+      "id":3,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Bqayiq3",
+      "country":"ABS",
+      "force":"103",
+      "fuel":"Benzin",
+      "year":"2017",
+      "numberOFseats":"8"
+      },
+
+      {
+      "id":4,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Bqayiq4",
+      "country":"Turkiye",
+      "force":"69",
+      "fuel":"Benzin",
+      "year":"2018",
+      "numberOFseats":"4"
+      },
+
+      {
+      "id":5,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"5199",
+      "img":"Bqayiq5",
+      "country":"Turkiye",
+      "force":"39",
+      "fuel":"Dizel",
+      "year":"2022",
+      "numberOFseats":"4"
+      },
+
+      {
+      "id":6,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"18199",
+      "img":"Bqayiq6",
+      "country":"Franca",
+      "force":"25",
+      "fuel":"Benzin",
+      "year":"2022",
+      "numberOFseats":"4"
+      },
+
+      {
+      "id":7,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11299",
+      "img":"Bqayiq7",
+      "country":"Russia",
+      "force":"46",
+      "fuel":"Benzin",
+      "year":"2021",
+      "numberOFseats":"10"
+      },
+
+      {
+      "id":8,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"3399",
+      "img":"Bqayiq8",
+      "country":"Russia",
+      "force":"100",
+      "fuel":"Benzin",
+      "year":"2023",
+      "numberOFseats":"6"
+      },
+
+      {
+      "id":9,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"1199",
+      "img":"Bqayiq9",
+      "country":"Brazilya",
+      "force":"50",
+      "fuel":"Benzin",
+      "year":"2023",
+      "numberOFseats":"4"
+      },
+
+      {
+      "id":10,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"1299",
+      "img":"Bqayiq10",
+      "country":"ABS",
+      "force":"78",
+      "fuel":"Almaniya",
+      "year":"2023",
+      "numberOFseats":"4"
+      },
+
+      {
+      "id":11,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"899",
+      "img":"Bqayiq11",
+      "country":"Almaniya",
+      "force":"130",
+      "fuel":"Benzin",
+      "year":"2023",
+      "numberOFseats":"5"
+      },
+
+      {
+      "id":12,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"1099",
+      "img":"Bqayiq12",
+      "country":"ABS",
+      "force":"80",
+      "fuel":"Benzin",
+      "year":"2023",
+      "numberOFseats":"4"
+      }
+
    ]
    
   

@@ -795,48 +795,6 @@
     }
    ],
 
-
-   "Goods-Mühərriklər":[
-    
-    {
-      "id":1,
-      "item":"BRP Audio-portativ sistem" ,
-      "price":"65",
-      "img":"Mühərriklər1"
-    },
-    {
-      "id":2,
-      "item":"Garmin Echomap Plus 62cv" ,
-      "price":"115",
-      "img":"Mühərriklər2"
-    },
-    {
-      "id":3,
-      "item":"RF D.E.S.S.TM Key" ,
-      "price":"36",
-      "img":"Mühərriklər3"
-    },
-    {
-      "id":4,
-      "item":"Kişi kostyumu3 mm",
-      "price":"25",
-      "img":"Mühərriklər4"
-    },
-    {
-      "id":5,
-      "item":"Kişi kostyumu3 mm",
-      "price":"25",
-      "img":"Mühərriklər5"
-    },
-    {
-      "id":6,
-      "item":"Kişi kostyumu3 mm",
-      "price":"25",
-      "img":"Mühərriklər6"
-    }
-
-   ],
-
    "JetSki":[
     {
       "id":1,
@@ -1256,7 +1214,50 @@
       "numberOFseats":"4"
       }
 
-   ]
+   ],
    
+   "Mühərriklər":[
+      {
+      "id":1,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Mühərriklər1"
+      },
+
+      {
+      "id":2,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Mühərriklər2"
+      },
+
+      {
+      "id":3,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Mühərriklər3"
+      },
+
+      {
+      "id":4,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"11199",
+      "img":"Mühərriklər4"    
+      },
+
+      {
+      "id":5,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"5199",
+      "img":"Mühərriklər5"
+      },
+
+      {
+      "id":6,
+      "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+      "price":"18199",
+      "img":"Mühərriklər6"
+      }
+   ]
   
 }

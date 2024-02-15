@@ -28,12 +28,6 @@
 
   ],
 
-
-
-
-
-
-
   "posts-midas":[
     {
       "id":1,
@@ -721,77 +715,85 @@
       "id":1,
       "item":"Suya davamlı bel çantası" ,
       "price":"28",
-      "img":"goods2"
+      "img":"goods2",
+      "cateqory":"SpareParts"
     },
     {
       "id":2,
       "item":"Спасательный жилет BRP Men's Airflow PFD" ,
       "price":"32",
-      "img":"goods3"
+      "img":"goods3",
+      "cateqory":"SpareParts"
     },
     {
       "id":3,
       "item":"BRP Kişilər üçün Hava axını PFD xilasedici jilet" ,
       "price":"33",
-      "img":"goods3"
+      "img":"goods3",
+      "cateqory":"SpareParts"
     },
     {
       "id":4,
       "item":"Suya davamlı bel çantası" ,
       "price":"46",
-      "img":"goods1"
+      "img":"goods1",
+      "cateqory":"SpareParts"
     },
     {
       "id":5,
       "item":"Suya davamlı bel çantası" ,
       "price":"46",
-      "img":"goods1"
+      "img":"goods1",
+      "cateqory":"SpareParts"
     },
     {
       "id":6,
       "item":"Suya davamlı bel çantası" ,
       "price":"46",
-      "img":"goods1"
-    }
-   ],
-
-
-    "Post-cart-goods2":[
+      "img":"goods1",
+      "cateqory":"SpareParts"
+    },
     {
-      "id":1,
+      "id":7,
       "item":"BRP Audio-portativ sistem" ,
       "price":"65",
-      "img":"goods2-1"
+      "img":"goods2-1",
+      "cateqory":"Accessories"
     },
     {
-      "id":2,
+      "id":8,
       "item":"Garmin Echomap Plus 62cv" ,
       "price":"115",
-      "img":"goods2-2"
+      "img":"goods2-2",
+      "cateqory":"Accessories"
     },
     {
-      "id":3,
+      "id":9,
       "item":"RF D.E.S.S.TM Key" ,
       "price":"36",
-      "img":"goods2-3"
+      "img":"goods2-3",
+      "cateqory":"Accessories"
     },
     {
-      "id":4,
+      "id":10,
       "item":"Kişi kostyumu3 mm",
       "price":"25",
-      "img":"goods2-4"
+      "img":"goods2-4",
+      "cateqory":"Accessories"
     },
     {
-      "id":5,
+      "id":11,
       "item":"Kişi kostyumu3 mm",
       "price":"25",
-      "img":"goods2-4"
+      "img":"goods2-4",
+      "cateqory":"Accessories"
     },
     {
-      "id":6,
+      "id":12,
       "item":"Kişi kostyumu3 mm",
       "price":"25",
-      "img":"goods2-4"
+      "img":"goods2-4",
+      "cateqory":"Accessories"
     }
    ],
 

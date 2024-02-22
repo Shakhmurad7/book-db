@@ -1287,6 +1287,123 @@
 
 
    ],
+
+
+   "Big-Boats":[
+    {
+    "id":1,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"8799",
+    "img":"Big-Boats1",
+    "country":"Kanada",
+    "force":"215",
+    "fuel":"Benzin",
+    "year":"2022",
+    "numberOFseats":"10"
+    },
+    
+    {
+    "id":2,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"42799",
+    "img":"Big-Boats2",
+    "country":"Kanada",
+    "force":"200",
+    "fuel":"Benzin",
+    "year":"2018",
+    "numberOFseats":"6"
+    },
+    {
+    "id":3,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"64799",
+    "img":"Big-Boats3",
+    "country":"Almaniya",
+    "force":"280",
+    "fuel":"Benzin",
+    "year":"2024",
+    "numberOFseats":"6"
+    },
+    {
+    "id":4,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"65599",
+    "img":"Big-Boats4",
+    "country":"Russia",
+    "force":"215",
+    "fuel":"Benzin",
+    "year":"2022",
+    "numberOFseats":"8"
+    },
+    {
+    "id":5,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"70999",
+    "img":"Big-Boats5",
+    "country":"Brazilya",
+    "force":"255",
+    "fuel":"Benzin",
+    "year":"2017",
+    "numberOFseats":"10"
+    },
+    {
+    "id":6,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"77999",
+    "img":"Big-Boats6",
+    "country":"Franca",
+    "force":"175",
+    "fuel":"Dizel",
+    "year":"2022",
+    "numberOFseats":"6"
+    },
+    {
+    "id":7,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"89899",
+    "img":"Big-Boats7",
+    "country":"ABS",
+    "force":"215",
+    "fuel":"Benzin",
+    "year":"2019",
+    "numberOFseats":"8"
+    },
+    {
+    "id":8,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"91999",
+    "img":"Big-Boats8",
+    "country":"Turkiye",
+    "force":"255",
+    "fuel":"Benzin",
+    "year":"2020",
+    "numberOFseats":"8"
+    },
+    {
+    "id":9,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"87799",
+    "img":"Big-Boats9",
+    "country":"Kanada",
+    "force":"200",
+    "fuel":"Benzin",
+    "year":"2022",
+    "numberOFseats":"8"
+    },
+    {
+    "id":10,
+    "item":"Atv BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"67999",
+    "img":"Big-Boats10",
+    "country":"Russia",
+    "force":"215",
+    "fuel":"Benzin",
+    "year":"2015",
+    "numberOFseats":"6"
+    }
+ ],
+
+
    "Qayiq":[
 
       {

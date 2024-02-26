@@ -1402,6 +1402,85 @@
     "numberOFseats":"6"
     }
  ],
+ "AllTerrainVehicles":[
+  {
+    "id":1,
+    "item":"Allterrainvehicles GTI 130 at gücü SE Black Mango",
+    "price":"3999",
+    "img":"Allterrainvehicles1",
+    "country":"Russia",
+    "force":"25",
+    "fuel":"Benzin",
+    "year":"2029",
+    "numberOFseats":"6"
+    },
+  {
+    "id":2,
+    "item":"Allterrainvehicles 130 at gücü SE Black Mango",
+    "price":"1799",
+    "img":"Allterrainvehicles2",
+    "country":"Almaniya",
+    "force":"35",
+    "fuel":"Benzin",
+    "year":"2024",
+    "numberOFseats":"5"
+    },
+  {
+    "id":3,
+    "item":"Allterrainvehicles 130 at gücü SE Black Mango",
+    "price":"2799",
+    "img":"Allterrainvehicles3",
+    "country":"ABS",
+    "force":"45",
+    "fuel":"Benzin",
+    "year":"2023",
+    "numberOFseats":"4"
+    },
+  {
+    "id":4,
+    "item":"Allterrainvehicles 130 at gücü SE Black Mango",
+    "price":"6999",
+    "img":"Allterrainvehicles4",
+    "country":"Brazilya",
+    "force":"45",
+    "fuel":"Benzin",
+    "year":"2024",
+    "numberOFseats":"4"
+    },
+  {
+    "id":5,
+    "item":"Allterrainvehicles 130 at gücü SE Black Mango",
+    "price":"4999",
+    "img":"Allterrainvehicles5",
+    "country":"Franca",
+    "force":"35",
+    "fuel":"Benzin",
+    "year":"2020",
+    "numberOFseats":"6"
+    },
+  {
+    "id":6,
+    "item":"Allterrainvehicles 130 at gücü SE Black Mango",
+    "price":"6599",
+    "img":"Allterrainvehicles6",
+    "country":"Turkiye",
+    "force":"30",
+    "fuel":"Benzin",
+    "year":"2018",
+    "numberOFseats":"5"
+    },
+  {
+    "id":7,
+    "item":"Allterrainvehicles 130 at gücü SE Black Mango",
+    "price":"3399",
+    "img":"Allterrainvehicles7",
+    "country":"Turkiye",
+    "force":"40",
+    "fuel":"Benzin",
+    "year":"2013",
+    "numberOFseats":"4"
+    }
+ ],
 
 
    "Qayiq":[

@@ -795,55 +795,7 @@
       "img":"goods2-4",
       "cateqory":"Accessories"
     },
-    {
-      "id":6,
-      "item":"Suya davamlı bel çantası" ,
-      "price":"46",
-      "img":"goods1",
-      "cateqory":"SpareParts"
-    },
-    {
-      "id":7,
-      "item":"BRP Audio-portativ sistem" ,
-      "price":"65",
-      "img":"goods2-1",
-      "cateqory":"Accessories"
-    },
-    {
-      "id":8,
-      "item":"Garmin Echomap Plus 62cv" ,
-      "price":"115",
-      "img":"goods2-2",
-      "cateqory":"Accessories"
-    },
-    {
-      "id":9,
-      "item":"RF D.E.S.S.TM Key" ,
-      "price":"36",
-      "img":"goods2-3",
-      "cateqory":"Accessories"
-    },
-    {
-      "id":10,
-      "item":"Kişi kostyumu3 mm",
-      "price":"25",
-      "img":"goods2-4",
-      "cateqory":"Accessories"
-    },
-    {
-      "id":11,
-      "item":"Kişi kostyumu3 mm",
-      "price":"25",
-      "img":"goods2-4",
-      "cateqory":"Accessories"
-    },
-    {
-      "id":12,
-      "item":"Kişi kostyumu3 mm",
-      "price":"25",
-      "img":"goods2-4",
-      "cateqory":"Accessories"
-    },
+
     {
       "id":13,
       "item":"Suya davamlı bel çantası" ,
